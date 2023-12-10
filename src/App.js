@@ -1,11 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import Body from './Components/Body';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline shadow-lg">
-      Hello world!
-    </h1>
+    <Body/>
   );
 }
 
